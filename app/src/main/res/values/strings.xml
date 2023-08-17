@@ -1,0 +1,4 @@
+<resources>
+    <string name="simple_list_item_1">weather</string>
+    <string name="app_name">W13 Demo Weather</string>
+</resources>
